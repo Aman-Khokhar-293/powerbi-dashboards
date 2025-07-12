@@ -24,4 +24,4 @@ This repository contains a Power BI dashboard built for data analysis practice.
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
-🌐 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/amankhokhar293)
+🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
